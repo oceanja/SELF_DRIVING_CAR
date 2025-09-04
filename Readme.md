@@ -111,17 +111,7 @@ See `requirements.txt`. Key packages include:
 * `opencv-python`
 * `numpy`
 
----
 
-## 👤 Author
-
-Aditya Meshram
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
 
 
 
