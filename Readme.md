@@ -38,17 +38,6 @@ Self\_Driving\_Car/
 
 ![Demo](demo_output.gif)
 
----
-
-## 🛠️ Installation
-
-```bash
-git clone https://github.com/Aditya2600/Fully_Self_Driving_Car.git
-cd Fully_Self_Driving_Car
-pip install -r requirements.txt
-````
-
----
 
 ## 🚀 Run Inference Simulation
 
